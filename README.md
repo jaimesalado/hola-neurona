@@ -4,17 +4,15 @@
 
 Web streamlit con python. Donde podemos calcular el valor de salida de : 
 
-- Una neurona con un valor de entrada y un peso.  `peso * entrada`
-<img src= "unaentrada.png" width="700">
-
+- Una neurona con un valor de entrada y un peso. 
+<img src= "unaentrada.png" width="700"><br>
+ `peso * entrada`
+ 
 - Una neurona con dos valores de entrada y dos pesos.
-<img src= "dosentrada.png" width="700">
+<img src= "dosentradas.png" width="700"> <br> `(entrada1 * peso1) + (entrada2 * peso2)`
 
 - Una neurona con tres entradas,tres pesos y un sesgo.
 
-
-
-<br>
-<br>
-
+<img src= "tresentradasesgo.png" width="700"> <br>
+`(entrada1 * peso1) + (entrada2 * peso2) + (entrada3 * peso3) + sesgo`
 
